@@ -1,0 +1,72 @@
+{
+  "type": "theou:aether",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "theou:aether",
+    "biome_source": {
+      "type": "multi_noise",
+      "biomes": [
+        {
+          "biome": "theou:artemesian_forest",
+          "parameters": {
+            "temperature": 0.6,
+            "humidity": 0.5,
+            "continentalness": 0.3,
+            "erosion": 0.4,
+            "weirdness": 0.0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "theou:fields_of_elysium",
+          "parameters": {
+            "temperature": 0.5,
+            "humidity": 0.5,
+            "continentalness": 0.4,
+            "erosion": 0.6,
+            "weirdness": 0.0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "theou:asphodel_meadows",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.8,
+            "continentalness": 0.3,
+            "erosion": 0.8,
+            "weirdness": 0.0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "theou:stygian_lakes",
+          "parameters": {
+            "temperature": 0.3,
+            "humidity": 0.5,
+            "continentalness": 0.2,
+            "erosion": 0.4,
+            "weirdness": 0.0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "theou:lernaean_marsh",
+          "parameters": {
+            "temperature": 0.8,
+            "humidity": 0.9,
+            "continentalness": 0.6,
+            "erosion": 0.2,
+            "weirdness": 0.0,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+} 

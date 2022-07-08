@@ -1,0 +1,1 @@
+execute in theou:olympia as @a[y=0] at @s run execute positioned ~ -64 ~ if entity @s[distance=..5] run function theou:misc/fall_tp

@@ -1,0 +1,44 @@
+{
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "downfall": 0.9,
+  "effects": {
+    "fog_color": 8102662,
+    "foliage_color": 9285927,
+    "grass_color_modifier": "swamp",
+    "sky_color": 7907327,
+    "water_color": 3832426,
+    "water_fog_color": 5077600
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:trees_mangrove",
+      "minecraft:patch_grass_normal",
+      "minecraft:patch_dead_bush",
+      "minecraft:patch_waterlily",
+      "minecraft:seagrass_swamp",
+      "theou:lernaean_pool"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "precipitation": "rain",
+  "spawn_costs": {},
+  "spawners": {},
+  "temperature": 0.5
+}
