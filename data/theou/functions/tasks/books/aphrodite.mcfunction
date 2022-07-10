@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Aphrodite","color":"gold","bold":true,"italic":false}','{"text":"Breed 10 Animals","color":"aqua","italic":false}']},Recipes:["theou:tasks/aphrodite"]} 1

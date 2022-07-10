@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Athena","color":"gold","bold":true,"italic":false}','{"text":"Sacrifice a golden apple, and a shield, to the Oracle","color":"aqua","italic":false}']},Recipes:["theou:tasks/athena"]} 1

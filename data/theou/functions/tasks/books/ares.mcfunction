@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Ares","color":"gold","bold":true,"italic":false}','{"text":"Kill 25 Zombies","color":"aqua","italic":false}']},Recipes:["theou:tasks/ares"]} 1

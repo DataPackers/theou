@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Hades","color":"gold","bold":true,"italic":false}','{"text":"Kill 20 Zombie Pigmen","color":"aqua","italic":false}']},Recipes:["theou:tasks/hades"]} 1

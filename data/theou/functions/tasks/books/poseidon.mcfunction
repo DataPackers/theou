@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Poseidon","color":"gold","bold":true,"italic":false}','{"text":"Kill 20 Drowneds","color":"aqua","italic":false}']},Recipes:["theou:tasks/poseidon"]} 1

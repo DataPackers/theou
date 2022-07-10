@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Hepheastus","color":"gold","bold":true,"italic":false}','{"text":"Sacrifice 5 iron swords to the Oracle","color":"aqua","italic":false}']},Recipes:["theou:tasks/hepheastus"]} 1

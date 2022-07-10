@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Artemis","color":"gold","bold":true,"italic":false}','{"text":"Trade with a Wandering Trader","color":"aqua","italic":false}']},Recipes:["theou:tasks/artemis"]} 1

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "theou:tasks/ares"
+      }
+    }
+  },
+  "rewards": {
+    "function": "theou:tasks/assign/ares"
+  }
+}

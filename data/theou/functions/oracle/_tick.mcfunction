@@ -1,0 +1,1 @@
+execute as @a at @s run execute as @e[tag=theou.structure.sacrifice,distance=..20] run function theou:oracle/oracle
