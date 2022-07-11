@@ -1,2 +1,2 @@
 tp @s ~2 ~2 ~
-tellraw @s "Offerings Only!"
+tellraw @s[tag=!theou.task.aphrodite] "Offerings Only!"

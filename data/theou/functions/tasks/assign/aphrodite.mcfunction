@@ -1,3 +1,5 @@
 advancement revoke @s only theou:tasks/aphrodite
-tellraw @s "<Aphrodite> Please breed 10 animals for me!"
+recipe take @s theou:tasks/aphrodite
+tellraw @s[tag=!theou.task.aphrodite] "<Aphrodite> Please breed 10 animals for me!"
+execute as @s[tag=theou.task.aphrodite] run function theou:oracle/random_task
 tag @s add theou.task.aphrodite
