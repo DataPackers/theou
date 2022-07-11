@@ -1,0 +1,9 @@
+execute as @a[scores={theou.blessing.aphrodite=1..}] run function theou:blessings/aphrodite
+execute as @a[scores={theou.blessing.apollo=1..}] run function theou:blessings/apollo
+execute as @a[scores={theou.blessing.ares=1..}] run function theou:blessings/ares
+execute as @a[scores={theou.blessing.athena=1..}] run function theou:blessings/athena
+execute as @a[scores={theou.blessing.hades=1..}] run function theou:blessings/hades
+execute as @a[scores={theou.blessing.hepheastus=1..}] run function theou:blessings/hepheastus
+execute as @a[scores={theou.blessing.hermes=1..}] run function theou:blessings/hermes
+execute as @a[scores={theou.blessing.posideon=1..}] run function theou:blessings/posideon
+execute as @a[scores={theou.blessing.zeus=1..}] run function theou:blessings/zeus
