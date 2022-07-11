@@ -1,0 +1,1 @@
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Zeus","color":"gold","bold":true,"italic":false}','{"text":"Sacrifice a block of gold","color":"aqua","italic":false}']},Recipes:["theou:tasks/zeus"]} 1

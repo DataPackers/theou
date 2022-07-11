@@ -1,1 +1,1 @@
-give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Artemis","color":"gold","bold":true,"italic":false}','{"text":"Trade with a Wandering Trader","color":"aqua","italic":false}']},Recipes:["theou:tasks/artemis"]} 1
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Artemis","color":"gold","bold":true,"italic":false}','{"text":"Trade a bow from the Wandering Trader, and sacrifice it to the Oracle","color":"aqua","italic":false}']},Recipes:["theou:tasks/artemis"]} 1

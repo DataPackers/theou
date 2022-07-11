@@ -8,6 +8,10 @@ scoreboard objectives add theou.task.hepheastus minecraft.crafted:minecraft.iron
 scoreboard objectives add theou.task.hades minecraft.killed:minecraft.zombified_piglin
 scoreboard objectives add theou.task.poseidon minecraft.killed:minecraft.drowned
 
+# Oracle
+scoreboard objectives add theou.oracle.favour dummy
+scoreboard objectives add theou.oracle.portal dummy
+
 # Blessings
 scoreboard objectives add theou.blessing.aphrodite dummy
 scoreboard objectives add theou.blessing.apollo dummy
