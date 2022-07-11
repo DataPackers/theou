@@ -1,1 +1,0 @@
-execute as @a if entity @s in minecraft:nether run effect give @s minecraft:fire_resistance 1 1

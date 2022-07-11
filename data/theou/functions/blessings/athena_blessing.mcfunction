@@ -1,1 +1,0 @@
-effect give @s minecraft:night_vision 1 3 true

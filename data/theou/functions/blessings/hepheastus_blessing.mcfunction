@@ -1,1 +1,0 @@
-effect give @s minecraft:fire_resistance 1 3 true
