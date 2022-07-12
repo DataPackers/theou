@@ -1,1 +1,1 @@
-give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Apollo","color":"gold","bold":true,"italic":false}','{"text":"Sacrifice 3 music discs to the Oracle","color":"aqua","italic":false}']},Recipes:["theou:tasks/apollo"]} 1
+give @s knowledge_book{display:{Name:'{"text":"Task of the Gods","italic":false}',Lore:['{"text":"Apollo","color":"gold","bold":true,"italic":false}','{"text":"Sacrifice the Cat music disc to the Oracle","color":"aqua","italic":false}']},Recipes:["theou:tasks/apollo"]} 1

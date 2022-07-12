@@ -1,6 +1,9 @@
 # Grant Task
 execute if entity @e[type=item,distance=..2,nbt={Item:{id:"minecraft:diamond_block"}}] run function theou:oracle/grant_task
 
+# Apollo
+execute if entity @e[type=item,distance=..2,nbt={Item:{id:"minecraft:music_disc_cat"}}] as @a[tag=theou.task.artemis,distance=..8,limit=1] run function theou:tasks/complete/apollo
+
 # Athena
 execute if entity @e[type=item,distance=..2,nbt={Item:{id:"minecraft:shield"}}] run tag @a[tag=theou.task.athena,distance=..8,limit=1] add theou.task.athena.shield
 execute if entity @e[type=item,distance=..2,nbt={Item:{id:"minecraft:golden_apple"}}] run tag @a[tag=theou.task.athena,distance=..8,limit=1] add theou.task.athena.golden_apple

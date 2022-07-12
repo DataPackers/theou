@@ -1,1 +1,1 @@
-give @s feather{display:{Name:'{"text":"Athena\'s Blessing","italic":false}'},CustomModelData:8005,theou.blessing:1b,theou.blessing.athena:1b} 1
+give @s feather{display:{Name:'{"text":"Athena\'s Blessing","color":"dark_purple","italic":false}'},CustomModelData:8005,theou.blessing:1b,theou.blessing.athena:1b} 1

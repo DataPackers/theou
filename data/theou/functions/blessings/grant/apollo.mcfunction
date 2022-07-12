@@ -1,3 +1,2 @@
-effect give @s minecraft:glowing 1 3 true
-effect give @e[distance=0..5] minecraft:slowness 1 255 true
+execute unless entity @s[nbt={Inventory:[{id:"minecraft:spectral_arrow"}]}] run give @s spectral_arrow
 particle note ~ ~1 ~ 1 1 1 0.01 100 normal @a[distance=0..5]

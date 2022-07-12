@@ -1,1 +1,1 @@
-give @s feather{display:{Name:'{"text":"Zeus\'s Blessing","italic":false}'},CustomModelData:8010,theou.blessing:1b,theou.blessing.zeus:1b} 1
+give @s feather{display:{Name:'{"text":"Zeus\'s Blessing","color":"gold","italic":false}'},CustomModelData:8010,theou.blessing:1b,theou.blessing.zeus:1b} 1
