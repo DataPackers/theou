@@ -1,0 +1,75 @@
+{
+  "parent": "item/generated",
+  "textures": {
+      "layer0": "item/feather"
+  },
+  "display": {
+      "head": {
+          "rotation": [ 0, 0, 45 ],
+          "translation": [ -1, 13, 7],
+          "scale":[ 1, 1, 1]
+      }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 8001
+      },
+      "model": "theou:item/blessings/aphrodite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8002
+      },
+      "model": "theou:item/blessings/apollo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8003
+      },
+      "model": "theou:item/blessings/ares"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8004
+      },
+      "model": "theou:item/blessings/artemis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8005
+      },
+      "model": "theou:item/blessings/athena"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8006
+      },
+      "model": "theou:item/blessings/hades"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8007
+      },
+      "model": "theou:item/blessings/hepheastus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8008
+      },
+      "model": "theou:item/blessings/hermes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8009
+      },
+      "model": "theou:item/blessings/poseidon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8010
+      },
+      "model": "theou:item/blessings/zeus"
+    }
+  ]
+} 

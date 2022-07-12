@@ -1,0 +1,1 @@
+effect give @s absorption 2 0 true

@@ -1,0 +1,1 @@
+give @s feather{display:{Name:'{"text":"Artemis\' Blessing","italic":false}'},CustomModelData:8004,theou.blessing:1b,theou.blessing.artemis:1b} 1

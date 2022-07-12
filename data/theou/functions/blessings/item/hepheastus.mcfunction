@@ -1,0 +1,1 @@
+give @s feather{display:{Name:'{"text":"Hepheastus\' Blessing","italic":false}'},CustomModelData:8007,theou.blessing:1b,theou.blessing.hepheastus:1b} 1
