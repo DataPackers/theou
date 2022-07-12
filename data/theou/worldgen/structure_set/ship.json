@@ -2,14 +2,14 @@
 {
   "structures": [
     {
-      "structure": "theou:lighthouse",
+      "structure": "theou:ship",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 22,
-    "separation": 20,
-    "salt": 284
+    "spacing": 25,
+    "separation": 18,
+    "salt": 5354364563534324
   }
 }

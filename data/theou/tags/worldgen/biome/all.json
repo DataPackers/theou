@@ -1,0 +1,11 @@
+ 
+{
+  "replace": false,
+  "values": [
+    "theou:artemesian_forest",
+    "theou:asphodel_meadows",
+    "theou:fields_of_elysium",
+    "theou:lernaean_marsh",
+    "theou:stygian_lakes"
+  ]
+}
