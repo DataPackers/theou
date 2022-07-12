@@ -6,6 +6,9 @@ Explore the unique biomes based on Ancient Greek mythology, and complete tasks g
 
 Minecraft 1.19+ is required.
 
+Theou is both a Data and Resource Pack. The same zip can be placed in your Resource Packs folder, as well as your Data Packs folder.
+It is recommended that you use the Resource Pack.
+
 ## Guide
 To get started on your journey with Theou, you will need to find an Oracle.
 
