@@ -1,0 +1,15 @@
+
+{
+  "structures": [
+    {
+      "structure": "theou:statue",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 54,
+    "separation": 40,
+    "salt": 737436464
+  }
+}

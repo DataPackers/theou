@@ -1,0 +1,10 @@
+execute as @s[tag=theou.structure.temple.aphrodite] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.aphrodite:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.apollo] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.apollo:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.ares] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.ares:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.artemis] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.artemis:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.athena] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.athena:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.hades] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.hades:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.hepheastus] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.hepheastus:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.hermes] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.hermes:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.poseidon] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.poseidon:1b}}}] run function theou:temple/give
+execute as @s[tag=theou.structure.temple.zeus] if entity @e[type=item,distance=..2,nbt={Item:{tag:{theou.favour.zeus:1b}}}] run function theou:temple/give

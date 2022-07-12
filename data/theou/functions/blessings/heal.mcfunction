@@ -1,0 +1,1 @@
+execute if score theou.rand_10 theou.misc.math matches 3 run scoreboard players remove @s theou.blessing.uses 1
